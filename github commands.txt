@@ -1,3 +1,6 @@
 This is my first page
 
 I have done changes in the feature branch A
+
+I have done changes in the feature branch B
+
